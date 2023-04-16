@@ -1,1 +1,1 @@
-# -gmail-clone-using-electron-desktop-app-backend
+# Gmail Clone Using Electron - Desktop App
